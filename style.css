@@ -1,0 +1,37 @@
+header{
+    font-size: 20pt;
+    background-color: wheat;
+    text-align: center;
+    
+}
+body{
+    background-color: black;
+}
+h1{
+    font-size: 33pt;
+    background-color: wheat;
+    text-align: center;
+}
+p{
+    color: wheat;
+    font-size: 30pt;
+    text-align: center;
+}
+h2{
+    font-size: 23pt;
+    text-align: center;
+    color: wheat;
+}
+h3{
+    font-size: 30;
+    color: wheat;
+    text-align: center;
+}
+h6{
+    font-size: 15pt;
+    text-align: center;
+    color: wheat;
+}
+li{
+    text-align: center;
+}
